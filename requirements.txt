@@ -1,9 +1,6 @@
-langchain-text-splitters
+chromadb>=1.5.8,<2
 sentence-transformers
-langchain-chroma
-langchain-huggingface
-chromadb
 livekit-agents==1.8.0
 livekit-plugins-sarvam==1.8.0
-sarvamai
+sarvamai>=0.1.36
 python-dotenv
