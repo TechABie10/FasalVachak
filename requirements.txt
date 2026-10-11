@@ -1,0 +1,9 @@
+langchain-text-splitters
+sentence-transformers
+langchain-chroma
+langchain-huggingface
+chromadb
+livekit-agents==1.8.0
+livekit-plugins-sarvam==1.8.0
+sarvamai
+python-dotenv
